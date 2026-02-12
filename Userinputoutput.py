@@ -12,4 +12,4 @@ print("School:", school)
 course = input("Enter your course: ")
 print("Course:", course)
 
-print("Thankyou for your time")
+print("Thankyou for your time!!")
